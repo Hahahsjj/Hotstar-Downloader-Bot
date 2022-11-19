@@ -1,5 +1,5 @@
 {
-  "name": "URL Uploader",
+  "name": "MY UPLOADER",
   "description": "Telegram's Open Source URL Uploader Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,8 +7,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/TeleRoid_Hotstar_Bot",
-  "website": "https://github.com/P-Phreak",
-  "repository": "https://github.com/P-Phreak/URLuploader-With-Hotstar",
+  "website": "https://github.com/Hahahsjj",
+  "repository": "https://github.com/Hahahsjj/Hotstar-Downloader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -16,15 +16,15 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token from @botfather, as a string.",
-      "value": ""
+      "5526736281:AAF0ll1Es8Q-CGqOunbwUuNofxaMXXCNO8M": ""
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "86e6fb51bc4b026be34d865765cd6ccc": ""
     },
     "SCREENSHOTS": {
       "description": "Generate screenshots for file after uploading ( True or false )",
@@ -33,7 +33,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1287407305"
+      "value": "5353204810"
     },
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
