@@ -20,7 +20,7 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "": ""
+      "12299125": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
